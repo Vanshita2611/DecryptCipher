@@ -56,3 +56,26 @@ paramount importance – to decipher the encrypted message and unveil its hidden
 meaning. Armed with knowledge of the enemy's encryption algorithms and access to
 their Python code implementations, you must develop an algorithm capable of unraveling
 the intricate layers of encryption.
+
+
+
+
+
+Soliton:
+
+
+Define classes for each encryption algorithm: Vigenère, Keyword, Atbash, Scytale, and Substitution.
+
+Implement methods within each class for encryption (encrypt) and decryption (decrypt).
+
+Define a function decrypt_message to decrypt the encrypted message using a list of decryption algorithms in reverse order.
+
+Define the original message to be encrypted and decrypted.
+
+Encrypt the original message using a sequence of encryption algorithms.
+
+Decrypt the encrypted message using the decrypt_message function and the same sequence of decryption algorithms.
+
+Compare the decrypted message with the original message to check if decryption was successful.
+
+Output the result, indicating whether decryption was successful and displaying the original and decrypted messages if successful.

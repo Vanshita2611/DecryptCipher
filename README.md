@@ -61,7 +61,7 @@ the intricate layers of encryption.
 
 
 
-Soliton:
+Solution:
 
 
 Define classes for each encryption algorithm: Vigenère, Keyword, Atbash, Scytale, and Substitution.
